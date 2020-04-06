@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpliteratorExample" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-06T19:18:33" hostname="C02W6FEFHTD5" time="0.014">
+  <properties/>
+  <testcase name="testStuff" classname="SpliteratorExample" time="0.014"/>
+  <system-out><![CDATA[Person{name='Brian', age=18, city='Chicago'}
+Person{name='David', age=89, city='Miami'}
+Person{name='Dan', age=76, city='Arizona'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
